@@ -9,4 +9,4 @@ This is a portfolio of my data science projects, presented using iPython noteboo
   
 - **Data Analysis**
   - [Evaluation of Subscription Renewal Reminder Feature with A/B Testing](https://github.com/jasperkan/data_science_portfolio/blob/master/Evaluation%20of%20Subscription%20Renewal%20Reminder%20Feature%20with%20AB%20Testing/Evaluation%20of%20Subscription%20Renewal%20Reminder%20Feature%20with%20AB%20Testing.ipynb): Evaluated the benefits of implementing the subscription renewal reminder feature by looking at user acquisition rate and expected revenue per account.
-    - *Tools: Python | numpy, pandas, statsmodels*
+   - *Tools: Python | numpy, pandas, statsmodels*
